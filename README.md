@@ -1,5 +1,8 @@
 # Robot-Gladiators
 
+Come check it out!
+[https://chaskin91.github.io/Robot-Gladiator/]
+
 ## Lesson 1
 * Learned about the role JavaScript plays in web development.
 * Interacted with the player via dialog windows using built-in browser functions.
@@ -14,3 +17,14 @@
 * Stored and accessed data at numeric indexes by using arrays.
 * Used "for" and "while" loops to allow blocks of code to execute repeatedly until their conditional statements evaluate to false, which breaks the loop.
 * Identified variables at distinct moments of the program's execution by using "console.log" and the "debugger" statement.
+
+## Lesson 3
+* Wrote two functions - startGame() and endGame() - to control the flow of the game while keeping the code organized and 'DRY'.
+* Used additional confirm(), alert(), and prompt() methods to provide a better user experience.
+* Built a new shop feature that can accommodate multiple input options thanks to the 'switch' statement.
+
+## Lesson 4
+* Used the built-in "Math.max()" method to prevent values from going negative.
+* Generated random numbers with the "Math.random()" method.
+* Converted many of our variables into objects to keep player and enemy data coupled together.
+* Added methods to our player object to facilitate manipulating players data.
