@@ -28,3 +28,12 @@ Come check it out!
 * Generated random numbers with the "Math.random()" method.
 * Converted many of our variables into objects to keep player and enemy data coupled together.
 * Added methods to our player object to facilitate manipulating players data.
+
+## Lesson 5
+* Managed time and focus by tracking bugs and feature requests in GitHub issues.
+* Intelligently prioritized GitHub Issues
+* Validated player input prior to operating on it.
+* Refactored for simplicity and maintainability.
+* Used a recursive funciton.
+* Distinguished and converted between number and string types.
+* Learned how to persist data in the browser by using 'localStorage'.
