@@ -2,6 +2,8 @@
 
 Come check it out!
 [https://chaskin91.github.io/Robot-Gladiator/]
+![image](https://github.com/CHaskin91/Robot-Gladiator/blob/main/assets/images/robot_gladiator_Pic.jpg)
+![image](https://github.com/CHaskin91/Robot-Gladiator/blob/main/assets/images/Screenshot.PNG)
 
 ## Lesson 1
 * Learned about the role JavaScript plays in web development.
